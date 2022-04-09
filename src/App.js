@@ -1,5 +1,5 @@
 import Title from './components/Title';
-import Request from './examples/5-custom-instance';
+import Request from './examples/6-interceptors';
 
 function App() {
   return (
