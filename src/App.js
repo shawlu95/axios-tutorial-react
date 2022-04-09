@@ -1,5 +1,6 @@
 import Title from './components/Title';
-import Request from './examples/3-post-request';
+import Request from './examples/5-custom-instance';
+
 function App() {
   return (
     <main>
