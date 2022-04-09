@@ -1,4 +1,6 @@
 # Axios Tutorial
+* Use global setting for main server calls, custom setting for special api call (e.g. fetch interest rate)
+* Use interceptors to enrich request and check response, just like node.js middleware.
 
 #### React Course
 
